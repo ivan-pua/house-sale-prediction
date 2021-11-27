@@ -1,9 +1,6 @@
 *.pkl
-
-Assignment-HousingDataset.csv
-Assignment-Kaggle-Submission-Random-Sample.csv
-Assignment-UnknownDataset.csv
+*.csv
 Assignment_Marking-Criteria-1.pdf
 Dataset_Attribute-Description-1.pdf
 dataset-check.xlsx
-missing_vals.csv
+
