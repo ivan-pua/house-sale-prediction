@@ -1,3 +1,5 @@
+*.pkl
+
 Assignment-HousingDataset.csv
 Assignment-Kaggle-Submission-Random-Sample.csv
 Assignment-UnknownDataset.csv
